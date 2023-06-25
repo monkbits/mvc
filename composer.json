@@ -1,0 +1,15 @@
+{
+    "name": "iamgo/makeing-framework",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "ankur",
+            "email": "mrmonk.learn@gmail.com"
+        }
+    ],
+    "require": {}
+}
